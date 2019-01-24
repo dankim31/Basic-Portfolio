@@ -1,0 +1,9 @@
+/*** HTML ***/
+html {
+    position: relative;
+}
+
+html, body {
+    font-family: Arial, Helvetica, sans-serif;
+    background: #ffffff url(../images/crossline-dots.png);
+}
